@@ -1,6 +1,7 @@
 LANG="en_US.UTF-8"
 
 alias ll='ls -al'
+alias vi='vim'
 
 export CLICOLOR=1
 export LSCOLORS=gxfxcxdxbxegedabagacad
