@@ -1,16 +1,6 @@
-[user]
-	name = Erwan Fouret
-	email = efouret@voyages-sncf.com
 [core]
 	autocrlf = true
 	editor = vim
-
-[difftool "sourcetree"]
-	cmd = 'G:/Program Files/KDiff3/kdiff3.exe' \"$LOCAL\" \"$REMOTE\"
-
-[mergetool "sourcetree"]
-	cmd = 'G:/Program Files/KDiff3/kdiff3.exe' \"$BASE\" \"$LOCAL\" \"$REMOTE\" -o \"$MERGED\"
-	trustExitCode = true
 
 [color]
 	ui = auto
